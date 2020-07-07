@@ -1,5 +1,4 @@
-
-Implementation of MS GSP Algorithm-- Sequential Pattern Mining using multiple minimum supports with a support difference constraint.
+# Implementation of MS GSP Algorithm-- Sequential Pattern Mining using multiple minimum supports with a support difference constraint.
 
 MS-GSP is an extension of GSP algorithm which can support multiple minimum supports.
 
