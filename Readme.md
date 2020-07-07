@@ -1,7 +1,6 @@
-# Implementation of MS GSP Algorithm-- Sequential Pattern Mining using multiple minimum supports with a support difference constraint.
+# Implementation of MS GSP Algorithm
 
-MS-GSP is an extension of GSP algorithm which can support multiple minimum supports.
-
+MS-GSP is an extension of GSP algorithm which can support multiple minimum supports that is used for Sequential Pattern Mining.
 
 -- Implemented in Python 3.6
 
@@ -13,17 +12,6 @@ MS-GSP is an extension of GSP algorithm which can support multiple minimum suppo
 --Up on providing the Input (data.txt and para.txt) it generates all the possible length frequent item sequences in a text file as output.txt
 
 
-References:
+## References:
 
 1.https://www.cs.uic.edu/~liub/WebMiningBook.html
-
-
-
-
-
-
-
-
-
-
-
