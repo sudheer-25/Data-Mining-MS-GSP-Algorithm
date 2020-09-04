@@ -3,6 +3,8 @@ import operator
 import sys
 sys.stdout = open('output.txt', 'w')
 from copy import copy, deepcopy
+print("test")
+print("test2")
 
 def inputDataProc():
     newDict = {}
